@@ -1,0 +1,22 @@
+* {
+  padding: 0;
+  border: none;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+body {
+  background: linear-gradient(90deg, rgba(79,17,194,1) 0%, rgba(170,11,255,1) 91%);
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+}
+
+#root {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
